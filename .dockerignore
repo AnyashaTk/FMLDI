@@ -1,0 +1,6 @@
+.venv
+.git
+__pycache__
+*.pth
+*.h5
+.streamlit
